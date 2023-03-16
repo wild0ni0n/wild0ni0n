@@ -28,7 +28,8 @@
 * [Wordpress 権限昇格の脆弱性について](https://www.slideshare.net/ssuser12fe9c/wordpress-77433411)
 * [CVE-2015-8562の脆弱性について](https://www.slideshare.net/ssuser12fe9c/cve20158562)
 
-### CVE
+### CVE:sunglasses:
+
 * [CVE-2022-24374](https://jvndb.jvn.jp/ja/contents/2022/JVNDB-2022-000014.html)
 * [CVE-2021-20746](https://jvndb.jvn.jp/ja/contents/2021/JVNDB-2021-000056.html)
 * [CVE-2021-20749](https://jvndb.jvn.jp/ja/contents/2021/JVNDB-2021-000055.html)
