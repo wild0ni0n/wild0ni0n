@@ -1,5 +1,33 @@
 ### Hi there 👋
 
+### Tools & Apps:wrench:
+
+* [SSRF-Practice](https://github.com/wild0ni0n/ssrf-practice)
+* [jvnchecker](https://github.com/wild0ni0n/jvnchecker)
+* [badnginx](https://github.com/wild0ni0n/badnginx)
+* [HTTP2-LAB](https://github.com/SecureSkyTechnology/http2-lab)
+
+### Publication:books:
+
+* [XS-Leaks Wiki(翻訳)](https://webapppentestguidelines.github.io/xs-leaks/)
+* [GraphQL診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
+* [アジャイル開発におけるセキュリティ | パターン・ランゲージ](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Security%20in%20Agile%20Software%20Development.md)
+* [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md)
+* [Webシステム／Webアプリケーションセキュリティ要件書](https://github.com/OWASP/www-chapter-japan/tree/master/secreq)
+
+### Slide:speaker:
+
+* [GraphQL入門+診断観点](https://www.slideshare.net/ssuser12fe9c/graphqlpdf-253182406)
+* [Webセキュリティ技術のキャッチアップ](https://speakerdeck.com/sst/websekiyuriteiji-shu-falsekiyatutiatupu)
+* [DVGA writeup](https://www.slideshare.net/ssuser12fe9c/dvga-writeup)
+* [SSRF基礎](https://www.slideshare.net/ssuser12fe9c/ssrf-248482162)
+* [PHP Object Injection入門](https://www.slideshare.net/ssuser12fe9c/php-object-injection-232176005)
+* [Docker導入手順](https://www.slideshare.net/ssuser12fe9c/docker-232175702)
+* [Burp Suite 2.0触ってみた](https://www.slideshare.net/ssuser12fe9c/burp20-135751895)
+* [HTTP2ことはじめ](https://speakerdeck.com/sst/http2kotohazime)
+* [Wordpress 権限昇格の脆弱性について](https://www.slideshare.net/ssuser12fe9c/wordpress-77433411)
+* [CVE-2015-8562の脆弱性について](https://www.slideshare.net/ssuser12fe9c/cve20158562)
+
 <!--
 **wild0ni0n/wild0ni0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
