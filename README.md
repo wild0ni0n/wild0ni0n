@@ -8,7 +8,7 @@
 * [HTTP2-LAB](https://github.com/SecureSkyTechnology/http2-lab)
 
 ### Publication:books:
-
+* [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
 * [XS-Leaks Wiki(翻訳)](https://webapppentestguidelines.github.io/xs-leaks/)
 * [GraphQL診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
 * [アジャイル開発におけるセキュリティ | パターン・ランゲージ](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/Security%20in%20Agile%20Software%20Development.md)
