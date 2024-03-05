@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Tools & Apps:wrench:
+### Tools & Apps :wrench:
 
 * [SSRF-Practice](https://github.com/wild0ni0n/ssrf-practice)
 * [jvnchecker](https://github.com/wild0ni0n/jvnchecker)
 * [badnginx](https://github.com/wild0ni0n/badnginx)
 * [HTTP2-LAB](https://github.com/SecureSkyTechnology/http2-lab)
 
-### Publication:books:
+### Publication :books:
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
 * [XS-Leaks Wiki(翻訳)](https://webapppentestguidelines.github.io/xs-leaks/)
 * [GraphQL診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
@@ -15,7 +15,7 @@
 * [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md)
 * [Webシステム／Webアプリケーションセキュリティ要件書](https://github.com/OWASP/www-chapter-japan/tree/master/secreq)
 
-### Slide:speaker:
+### Slide :speaker:
 
 * [GraphQL入門+診断観点](https://www.slideshare.net/ssuser12fe9c/graphqlpdf-253182406)
 * [Webセキュリティ技術のキャッチアップ](https://speakerdeck.com/sst/websekiyuriteiji-shu-falsekiyatutiatupu)
@@ -28,7 +28,7 @@
 * [Wordpress 権限昇格の脆弱性について](https://www.slideshare.net/ssuser12fe9c/wordpress-77433411)
 * [CVE-2015-8562の脆弱性について](https://www.slideshare.net/ssuser12fe9c/cve20158562)
 
-### CVE:sunglasses:
+### CVE :sunglasses:
 
 * [CVE-2022-24374](https://jvndb.jvn.jp/ja/contents/2022/JVNDB-2022-000014.html)
 * [CVE-2021-20746](https://jvndb.jvn.jp/ja/contents/2021/JVNDB-2021-000056.html)
