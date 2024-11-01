@@ -8,6 +8,7 @@
 * [HTTP2-LAB](https://github.com/SecureSkyTechnology/http2-lab)
 
 ### Publication :books:
+* [ASM導入検討を進めるためのガイダンス（基礎編）](https://webapppentestguidelines.github.io/ASMGuidance/)
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
 * [XS-Leaks Wiki(翻訳)](https://webapppentestguidelines.github.io/xs-leaks/)
 * [GraphQL診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
