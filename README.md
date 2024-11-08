@@ -9,6 +9,7 @@
 
 ### Publication :books:
 * [ASM導入検討を進めるためのガイダンス（基礎編）](https://webapppentestguidelines.github.io/ASMGuidance/)
+* [脆弱性トリアージガイドライン作成の手引き](https://webapppentestguidelines.github.io/TriageGuidelines/)
 * [細かすぎるけど伝わってほしい脆弱性診断手法ドキュメント](https://webapppentestguidelines.github.io/newtechtestdoc/)
 * [XS-Leaks Wiki(翻訳)](https://webapppentestguidelines.github.io/xs-leaks/)
 * [GraphQL診断ガイドライン](https://github.com/WebAppPentestGuidelines/graphQLGuideLine)
