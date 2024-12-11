@@ -19,16 +19,17 @@
 
 ### Slide :speaker:
 
-* [GraphQL入門+診断観点](https://www.slideshare.net/ssuser12fe9c/graphqlpdf-253182406)
+* [そうだ採用しよう。エンジニア採用計画から入社まで](https://www.docswell.com/s/wild0ni0n/57R4MW-2024-12-11-161402)
+* [GraphQL入門+診断観点](https://www.docswell.com/s/wild0ni0n/ZRX2LW-2023-05-08-115812)
 * [Webセキュリティ技術のキャッチアップ](https://speakerdeck.com/sst/websekiyuriteiji-shu-falsekiyatutiatupu)
-* [DVGA writeup](https://www.slideshare.net/ssuser12fe9c/dvga-writeup)
-* [SSRF基礎](https://www.slideshare.net/ssuser12fe9c/ssrf-248482162)
-* [PHP Object Injection入門](https://www.slideshare.net/ssuser12fe9c/php-object-injection-232176005)
-* [Docker導入手順](https://www.slideshare.net/ssuser12fe9c/docker-232175702)
-* [Burp Suite 2.0触ってみた](https://www.slideshare.net/ssuser12fe9c/burp20-135751895)
+* [DVGA writeup](https://www.docswell.com/s/wild0ni0n/KW1WJG-2023-05-08-115736)
+* [SSRF基礎](https://www.docswell.com/s/wild0ni0n/5DENY9-2023-05-08-115632)
+* [PHP Object Injection入門](https://www.docswell.com/s/wild0ni0n/ZXYEM2-2023-05-08-115527)
+* [Docker導入手順](https://www.docswell.com/s/wild0ni0n/ZP92VG-2023-05-08-114835)
+* [Burp Suite 2.0触ってみた](https://www.docswell.com/s/wild0ni0n/KLL17Q-2023-05-08-114749)
 * [HTTP2ことはじめ](https://speakerdeck.com/sst/http2kotohazime)
-* [Wordpress 権限昇格の脆弱性について](https://www.slideshare.net/ssuser12fe9c/wordpress-77433411)
-* [CVE-2015-8562の脆弱性について](https://www.slideshare.net/ssuser12fe9c/cve20158562)
+* [Wordpress 権限昇格の脆弱性について](https://www.docswell.com/s/wild0ni0n/598VEW-2023-05-08-114645)
+* [CVE-2015-8562の脆弱性について](https://www.docswell.com/s/wild0ni0n/ZGX19L-2023-05-08-114224)
 
 ### CVE :sunglasses:
 
