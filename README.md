@@ -4,6 +4,7 @@
 
 * [SSRF-Practice](https://github.com/wild0ni0n/ssrf-practice)
 * [jvnchecker](https://github.com/wild0ni0n/jvnchecker)
+* [PHP Serial Killer](https://github.com/wild0ni0n/php-serial-killer)
 * [badnginx](https://github.com/wild0ni0n/badnginx)
 * [HTTP2-LAB](https://github.com/SecureSkyTechnology/http2-lab)
 
