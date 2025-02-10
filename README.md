@@ -39,6 +39,8 @@
 * [CVE-2021-20749](https://jvndb.jvn.jp/ja/contents/2021/JVNDB-2021-000055.html)
 * [CVE-2021-20734](https://jvndb.jvn.jp/ja/contents/2021/JVNDB-2021-000047.html)
 
+### BugBounty :bug: 
+* https://hackerone.com/reports/507139
 
 <!--
 **wild0ni0n/wild0ni0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
