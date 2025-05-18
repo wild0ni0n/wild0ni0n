@@ -2,6 +2,7 @@
 
 ### Tools & Apps :wrench:
 
+* [txtra](https://github.com/wild0ni0n/txtra)
 * [SSRF-Practice](https://github.com/wild0ni0n/ssrf-practice)
 * [jvnchecker](https://github.com/wild0ni0n/jvnchecker)
 * [PHP Serial Killer](https://github.com/wild0ni0n/php-serial-killer)
@@ -18,7 +19,7 @@
 * [脆弱性診断士倫理綱領](https://github.com/OWASP/www-chapter-japan/blob/master/skillmap_project/code_of_ethics.md)
 * [Webシステム／Webアプリケーションセキュリティ要件書](https://github.com/OWASP/www-chapter-japan/tree/master/secreq)
 
-### Slide :speaker:
+### Slide :spiral_notepad:
 
 * [そうだ採用しよう。エンジニア採用計画から入社まで](https://www.docswell.com/s/wild0ni0n/57R4MW-2024-12-11-161402)
 * [GraphQL入門+診断観点](https://www.docswell.com/s/wild0ni0n/ZRX2LW-2023-05-08-115812)
@@ -42,6 +43,13 @@
 ### BugBounty :bug: 
 * https://hackerone.com/reports/507139
 
+
+### Speaker :speaker:
+* [25/3/14 Security Days 2025](https://f2ff.jp/introduction/10117?event_id=secd-2025-01-tokyo)
+* 25/1/31 JPCERT/CC 情報共有会
+* [25/1/24 JNSA NSF2025](https://www.jnsa.org/seminar/nsf/2025/pro.html)
+  * [Slide Link](https://www.jnsa.org/seminar/nsf/2025/data/20250124_06.pdf)
+* [25/1/15 OWASP Night](https://owasp.doorkeeper.jp/events/180284)
 <!--
 **wild0ni0n/wild0ni0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
